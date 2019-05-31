@@ -88,6 +88,11 @@
 * [Learning scikit-learn: Machine Learning in Python, Raul Garreta](https://github.com/gmonce/scikit-learn-book)
 * [Reinforcement Learning An Introduction](https://github.com/ShangtongZhang/reinforcement-learning-an-introduction)
 
+## Cheat sheets
+* [Deep Learning Tips and Tricks cheatsheet](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-deep-learning-tips-and-tricks)
+* [Convolutional Neural Networks cheatsheet](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-convolutional-neural-networks)
+* [Recurrent Neural Networks cheatsheet](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-recurrent-neural-networks)
+
 ## Interview Questions
 * [40 Interview Questions asked at Startups in Machine Learning / Data Science](https://www.analyticsvidhya.com/blog/2016/09/40-interview-questions-asked-at-startups-in-machine-learning-data-science/)
 * [21 Must-Know Data Science Interview Questions and Answers](https://www.kdnuggets.com/2016/02/21-data-science-interview-questions-answers.html)
