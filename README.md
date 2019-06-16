@@ -9,6 +9,7 @@
 * [Oxford - Deep Learning for Natural Language Processing](https://www.cs.ox.ac.uk/teaching/courses/2016-2017/dl/)
 * [Coursera Deep Learning](https://www.coursera.org/specializations/deep-learning)
 * [Udacity NanoDegree - Become a Self Driving Car Engineer](https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd013)
+* [Open Machine Learning Course](https://mlcourse.ai)
 
 ## Youtube
 * [3Blue1Brown Youtube- Essense of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
