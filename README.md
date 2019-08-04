@@ -1,15 +1,23 @@
 # Machine Learning Resources 
 ## Online Courses
 * [UC Berkeley CS188 Intro to AI -- Course Materials](http://ai.berkeley.edu/home.html)
+* [Stanford GSE-YPROBSTAT - Probability and Statistics](https://online.stanford.edu/courses/gse-yprobstat-probability-and-statistics)
 * [Stanford CS221: Artificial Intelligence: Principles and Techniques](http://web.stanford.edu/class/cs221)
+* [Standford CS231N 2017 - Convolutional Neural Networks for Visual Recognition](https://www.youtube.com/playlist?list=PLzUTmXVwsnXod6WNdg57Yc3zFx_f-RYsq)
+* [Stanford - CS224N Natural Language Processing with Deep Learning](https://www.youtube.com/playlist?list=PLU40WL8Ol94IJzQtileLTqGZuXtGlLMP_)
 * [David Silver's renowned reinforcement learning course from University College London](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html)
 * [CS 294-112 at UC Berkeley Deep Reinforcement Learning](http://rail.eecs.berkeley.edu/deeprlcourse)
+* [MIT - Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)
 * [MIT 6.S094: Deep Learning for Self-Driving Cars](https://selfdrivingcars.mit.edu)
 * [Stanford CS224n: Natural Language Processing with Deep Learning](http://web.stanford.edu/class/cs224n/)
 * [Oxford - Deep Learning for Natural Language Processing](https://www.cs.ox.ac.uk/teaching/courses/2016-2017/dl/)
+* [Coursera - Machine Learning by Stanford](https://www.coursera.org/learn/machine-learning)
 * [Coursera Deep Learning](https://www.coursera.org/specializations/deep-learning)
 * [Udacity NanoDegree - Become a Self Driving Car Engineer](https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd013)
 * [Open Machine Learning Course](https://mlcourse.ai)
+* [Deepmind - RL Course ](https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ)
+* [Spring 2019 Full Stack Deep Learning Bootcamp](https://fullstackdeeplearning.com/march2019)
+* [Coursera - How to Win a Data Science Competition](https://www.coursera.org/learn/competitive-data-science)
 
 ## Youtube
 * [3Blue1Brown Youtube- Essense of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
