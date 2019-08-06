@@ -18,6 +18,7 @@
 * [Deepmind - RL Course ](https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ)
 * [Spring 2019 Full Stack Deep Learning Bootcamp](https://fullstackdeeplearning.com/march2019)
 * [Coursera - How to Win a Data Science Competition](https://www.coursera.org/learn/competitive-data-science)
+* [Artificial Intelligence Complete Courses (01-23) Patrick H. Winston - New World : Artificial Intelligence](https://www.newworldai.com/artificial-intelligence-complete-lectures-01-23)
 
 ## Youtube
 * [3Blue1Brown Youtube- Essense of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
